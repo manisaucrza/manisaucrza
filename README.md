@@ -17,4 +17,4 @@ Software developer passionate about Keyboards, Rogue-like card games, Efficiency
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manisaucrza&show_icons=true&theme=tokyonight)
 
 <!-- Optional: Add a visitor counter -->
-![Visitors](![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manisaucrza.manisaucrza))
+![Profile views](https://komarev.com/ghpvc/?username=manisaucrza)
