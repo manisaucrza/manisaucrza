@@ -16,8 +16,5 @@ Software developer passionate about Keyboards, Rogue-like card games, Efficiency
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manisaucrza&show_icons=true&theme=tokyonight)
-
 <!-- Optional: Add a visitor counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=manisaucrza)
